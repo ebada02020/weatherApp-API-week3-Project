@@ -1,9 +1,13 @@
 # weatherApp-API-week3-Project
 
-### to see the page  https://ebada02020.github.io/weatherApp-API-week3-Project/
+### to see the page 
+### https://ebada02020.github.io/weatherApp-API-week3-Project/
 
 
-### used API     https://openweathermap.org/
+### used APIs
+
+#### https://openweathermap.org/
+#### https://unsplash.com/developers
 
 ## Must Haves
 ```
