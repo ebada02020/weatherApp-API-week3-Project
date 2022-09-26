@@ -2,6 +2,9 @@
 
 ### to see the page  https://ebada02020.github.io/weatherApp-API-week3-Project/
 
+
+### used API     https://openweathermap.org/
+
 ## Must Haves
 ```
 * A user should be able to enter a city name and see temperature wind speed , description , sunrise , sunset and Humidity.
