@@ -20,3 +20,6 @@
 ```
 * A user always see a photo of the city in the background.
 ```
+
+## color palette 
+#### white & black
